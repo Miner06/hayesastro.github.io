@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(31, 30, 30);
+}
+
+h2 {
+    color: white
+}
+
+li::marker {
+    color:rgb(243, 243, 243)
+}
+
+ul li {
+    padding: 10px 0px;
+}
+
+p {
+    color: white
+}
+
+a:link, a:visited {
+    color:darkblue;
+    background-color: white;
+    padding: 7px 2px;
+}
+
+
+.center {
+    position:absolute;
+    left:650px;
+    width:33%;
+    bottom:250px;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+    
